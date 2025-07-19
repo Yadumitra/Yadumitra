@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Yadumithra!<br>From: Kerala, India<br>Passion: Web Dev & AI/ML<br>Skills: HTML, CSS, JS, C, Java,python<br>Goals: Build secure apps, learn cybersecurity, open source contributions<br><br>
+👋 Hi, I'm Yadumithra!<br>From: Kerala, India<br>Passion: Web Dev & AI/ML<br>Skills: HTML, CSS, JS, C, Java, ComputerVision, python<br>Goals: Build secure apps, learn cybersecurity, open source contributions<br><br>
 
 
 ## 🌐 Socials:
